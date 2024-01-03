@@ -1,0 +1,16 @@
+*
+!/**/
+!*.json
+!*.png
+!*.jpg
+!*.gif
+!*.cs
+!*.csproj
+
+!.gitignore
+!README.md
+
+bin/
+obj/
+.vs/
+dist/
