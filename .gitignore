@@ -6,8 +6,10 @@
 !*.gif
 !*.cs
 !*.csproj
+!*.sln
 
 !.gitignore
+!LICENSE
 !README.md
 
 bin/
